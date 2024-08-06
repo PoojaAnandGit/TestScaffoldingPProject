@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestScaffoldingPProject
+  gitServerName: test1
+  gitUrl: https://github.com/PoojaAnandGit/TestScaffoldingPProject
+  gitUsername: PoojaAnandGit
+  gitBranch: main
